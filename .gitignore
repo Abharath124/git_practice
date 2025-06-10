@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+venv/
+myenv/
+
 # C extensions
 *.so
 
@@ -17,7 +20,7 @@ eggs/
 lib/
 lib64/
 parts/
-sdist/
+sdist/      
 var/
 wheels/
 share/python-wheels/
